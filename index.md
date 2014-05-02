@@ -1,9 +1,11 @@
 ---
-layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+layout: page
+description:
+tags:
 image:
   feature: texture-feature-01.jpg
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
+
+I am a Computer Science Engineer.

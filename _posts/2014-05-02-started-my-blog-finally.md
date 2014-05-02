@@ -2,7 +2,7 @@
 layout: post
 title: "Started my blog, finally!"
 modified: 2014-05-02 21:09:17 +0530
-category:
+category: personal
 tags: [personal]
 image:
   feature: 
