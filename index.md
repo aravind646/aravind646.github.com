@@ -8,4 +8,4 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-I am a Computer Science Engineer.
+I am a Computer Engineer and I code for a living.
