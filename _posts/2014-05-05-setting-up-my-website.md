@@ -21,7 +21,7 @@ Jekyll is a simple, blog-aware, static site generator. It takes a template direc
 You can follow this <a href="http://jekyllrb.com/docs/quickstart/">guide</a> to setup Jekyll on a Linux box. You can find more about Jekyll in this <a href="https://github.com/jekyll/jekyll/wiki">wiki</a>.
 For a quick bootstrap on how to use Jekyll to set up blog, follow <a href="http://jekyllbootstrap.com">Jekyll Bootstrap</a>. This also provides information on Themes and other hacks to play with.
 
-<h2>Comment Engine:</h2>
+<h2>Comment Engine</h2>
 I used Disqus to power my comment section and setting up it in one’s blog is very simple and on a Jekyll powered site it’s bliss. You can follow the below steps to integrate disqus into Jekyll site:
 <ul>
 	<li>Add a variable called <code>comments</code> to the <a href="https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter">YAML Front Matter</a> and set its value to <code>true</code>.</li>
@@ -30,5 +30,5 @@ I used Disqus to power my comment section and setting up it in one’s blog is v
 
 You can find more information about Disqus comments <a href="http://help.disqus.com">here</a>. 
 
-<h2>Source Code:</h2>
+<h2>Source Code</h2>
 What better way is there to host the source code other than <a href="https://github.com">Github</a>? You can clone my <a href="https://github.com/aravind646/aravind646.github.com">repository</a>.
